@@ -1,5 +1,5 @@
 # AruCo WASM
-I searched online for a low latency AruCo implementation and couldn't find one so I decided to throw 48 hours of my life into building one. 
+I searched online for a low latency AruCo implementation in the browser and couldn't find one so I decided to throw 48 hours of my life into building one. 
 
 
 https://github.com/user-attachments/assets/8350c90d-b33a-4c10-bd8b-b9931fd0260e
