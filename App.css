@@ -1,0 +1,48 @@
+.app {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 16px;
+}
+
+.viewport {
+  background: #000;
+  max-width: 500px;
+  overflow: hidden;
+  position: relative;
+  width: min(100%, 500px);
+}
+
+.camera-source {
+  display: none;
+}
+
+.camera-output {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.frame-ms {
+  background: rgba(18, 18, 18, 0.82);
+  border-radius: 10px;
+  color: #fff;
+  left: 16px;
+  margin: 0;
+  padding: 10px 12px;
+  position: absolute;
+  top: 16px;
+}
+
+.error-banner {
+  background: rgba(18, 18, 18, 0.82);
+  border-radius: 10px;
+  bottom: 16px;
+  color: #fff;
+  left: 16px;
+  margin: 0;
+  max-width: min(420px, calc(100vw - 32px));
+  padding: 10px 12px;
+  position: absolute;
+}
