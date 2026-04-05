@@ -15,3 +15,6 @@ Usinging this demo you can:
 - Correct for webcam focal length.
 
 PRs welcome!
+
+Known issues:
+- Reflections are the enemy. Print your tags on matte paper for best results.
